@@ -1,0 +1,45 @@
+[
+    {
+        "Offences": [{"Crime": "r"}],
+        "Reward $": 0,
+        "DOB": "01/02/2000",
+        "ID": 1,
+        "Gender": "Male",
+        "Name": "Harry"
+    },
+    {
+        "Offences": [{"Crime": "robbery"}],
+        "Reward $": 0,
+        "DOB": "03/20/2000",
+        "ID": 2,
+        "Gender": "Female",
+        "Name": "Hermione"
+    },
+    {
+        "Offences": [
+            {"Crime": "fraud"},
+            {"Crime": "burglary"}
+        ],
+        "Reward $": 0,
+        "DOB": "05/19/2000",
+        "ID": 3,
+        "Gender": "Male",
+        "Name": "Ron"
+    },
+    {
+        "Offences": [{"Crime": "Robbery"}],
+        "Reward $": 0,
+        "DOB": "01/01/1001",
+        "ID": 4,
+        "Gender": "Male",
+        "Name": "Voldemort"
+    },
+    {
+        "Offences": [{"Crime": "Kidnapping"}],
+        "Reward $": 1000,
+        "DOB": "10/08/1876",
+        "ID": 5,
+        "Gender": "Male",
+        "Name": "Dumbledore"
+    }
+]

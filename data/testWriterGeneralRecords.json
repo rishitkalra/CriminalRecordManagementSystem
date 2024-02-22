@@ -1,0 +1,18 @@
+[
+    {
+        "Offences": [],
+        "Reward $": 0,
+        "DOB": "01/01/0101",
+        "ID": 1,
+        "Gender": "male",
+        "Name": "a"
+    },
+    {
+        "Offences": [],
+        "Reward $": 0,
+        "DOB": "02/02/1002",
+        "ID": 2,
+        "Gender": "female",
+        "Name": "b"
+    }
+]
